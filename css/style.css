@@ -7,6 +7,10 @@
 
 /* fonts color */
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --bs-blue: #4BA1A7;
     --bs-red: #F0756C;
